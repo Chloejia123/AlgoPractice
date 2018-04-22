@@ -8,3 +8,5 @@ Recording my daily algorithm practices
 ### 04/21
 [LC278. First Bad Version](https://github.com/Chloejia123/AlgoPractice/blob/master/src/main/java/LC278FirstBadVersion.java), 
 [LC75. Sort Color](https://github.com/Chloejia123/AlgoPractice/blob/master/src/main/java/LC75SortColor.java)
+### 04/22
+[LC496. Next Greater Element I](https://github.com/Chloejia123/AlgoPractice/blob/master/src/main/java/LC496NextGreaterElementI.java), [LC506. Relative Ranks](https://github.com/Chloejia123/AlgoPractice/blob/master/src/main/java/LC506RelativeRanks.java), [LC540. Single Element In A Sorted Array](https://github.com/Chloejia123/AlgoPractice/blob/master/src/main/java/LC506RelativeRanks.java)
