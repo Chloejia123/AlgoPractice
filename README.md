@@ -10,3 +10,5 @@ Recording my daily algorithm practices
 [LC75. Sort Color](https://github.com/Chloejia123/AlgoPractice/blob/master/src/main/java/LC75SortColor.java)
 ### 04/22
 [LC496. Next Greater Element I](https://github.com/Chloejia123/AlgoPractice/blob/master/src/main/java/LC496NextGreaterElementI.java), [LC506. Relative Ranks](https://github.com/Chloejia123/AlgoPractice/blob/master/src/main/java/LC506RelativeRanks.java), [LC540. Single Element In A Sorted Array](https://github.com/Chloejia123/AlgoPractice/blob/master/src/main/java/LC506RelativeRanks.java)
+### 04/23
+[LC46. Permutation](https://github.com/Chloejia123/AlgoPractice/blob/master/src/main/java/LC46Permutation.java), [LC47. Permutation II](https://github.com/Chloejia123/AlgoPractice/blob/master/src/main/java/LC47PermutationII.java), [LC78. Subset](https://github.com/Chloejia123/AlgoPractice/blob/master/src/main/java/LC78Subsets.java), [LC90. Subset II](https://github.com/Chloejia123/AlgoPractice/blob/master/src/main/java/LC90SubsetsII.java)
