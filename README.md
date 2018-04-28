@@ -15,7 +15,11 @@ Recording my daily algorithm practices
 ### 04/24
 [LC647. Palindromic Substring](), 
 [LC796. Rotate String](), 
-[lC520. Detect Capital](), 
-[lC819. Most Common Word]()
+[LC520. Detect Capital](), 
+[LC819. Most Common Word]()
 ### 04/26
 [LC108.Convert Sorted Array To Binary SearchTree](https://github.com/Chloejia123/AlgoPractice/blob/master/src/main/java/LC108ConvertSortedArrayToBinarySearchTree.java), [LC109. Convert Sorted List To Binary Search Tree](https://github.com/Chloejia123/AlgoPractice/blob/master/src/main/java/LC109ConvertSortedListToBinarySearchTree.java)
+### 04/27
+[LC136. Single Number](https://github.com/Chloejia123/AlgoPractice/blob/master/src/main/java/LC136SingleNumber.java),
+[LC137. Single Number II](https://github.com/Chloejia123/AlgoPractice/blob/master/src/main/java/LC137SingleNumberII.java),
+[LC696. Count Binary Substrings](https://github.com/Chloejia123/AlgoPractice/blob/master/src/main/java/LC696CountBinarySubstrings.java)
