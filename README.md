@@ -13,10 +13,10 @@ Recording my daily algorithm practices
 ### 04/23
 [LC46. Permutation](https://github.com/Chloejia123/AlgoPractice/blob/master/src/main/java/LC46Permutation.java), [LC47. Permutation II](https://github.com/Chloejia123/AlgoPractice/blob/master/src/main/java/LC47PermutationII.java), [LC78. Subset](https://github.com/Chloejia123/AlgoPractice/blob/master/src/main/java/LC78Subsets.java), [LC90. Subset II](https://github.com/Chloejia123/AlgoPractice/blob/master/src/main/java/LC90SubsetsII.java)
 ### 04/24
-[LC647. Palindromic Substring](), 
-[LC796. Rotate String](), 
-[LC520. Detect Capital](), 
-[LC819. Most Common Word]()
+[LC647. Palindromic Substring](./src/main/java/LC647PalindromicSubstring.java), 
+[LC796. Rotate String](./src/main/java/LC796RotateString.java), 
+[LC520. Detect Capital](./src/main/java/LC520DetectCapital.java), 
+[LC819. Most Common Word](./src/main/java/LC819MostCommonWord.java)
 ### 04/26
 [LC108.Convert Sorted Array To Binary SearchTree](https://github.com/Chloejia123/AlgoPractice/blob/master/src/main/java/LC108ConvertSortedArrayToBinarySearchTree.java), [LC109. Convert Sorted List To Binary Search Tree](https://github.com/Chloejia123/AlgoPractice/blob/master/src/main/java/LC109ConvertSortedListToBinarySearchTree.java)
 ### 04/27
