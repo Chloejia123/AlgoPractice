@@ -23,6 +23,6 @@ Recording my daily algorithm practices
 [LC136. Single Number](https://github.com/Chloejia123/AlgoPractice/blob/master/src/main/java/LC136SingleNumber.java),
 [LC137. Single Number II](https://github.com/Chloejia123/AlgoPractice/blob/master/src/main/java/LC137SingleNumberII.java),
 [LC696. Count Binary Substrings](https://github.com/Chloejia123/AlgoPractice/blob/master/src/main/java/LC696CountBinarySubstrings.java)
-### 04/29
-[LC654. Maximum Binary Tree](./LC654MaximumBinaryTree.java), 
-[LC807. Max Increase to Keep City Sky Line](./LC807MaxIncreasetoKeepCitySkyline.java)
+### 04/28 - 04/29
+[LC654. Maximum Binary Tree](./src/main/java/LC654MaximumBinaryTree.java), 
+[LC807. Max Increase to Keep City Sky Line](./src/main/java/LC807MaxIncreasetoKeepCitySkyline.java)
