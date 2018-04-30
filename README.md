@@ -27,3 +27,8 @@ Recording my daily algorithm practices
 [LC654. Maximum Binary Tree](./src/main/java/LC654MaximumBinaryTree.java), 
 ### 04/29
 [LC807. Max Increase to Keep City Sky Line](./src/main/java/LC807MaxIncreasetoKeepCitySkyline.java)
+### 04/30
+[LC3. Longest Substring Without Repeating Characters](./src/main/java/LC3LongestSubstringWithoutRepeatingCharacters.java),
+[LC6. ZigZag Conversion](./src/main/java/LC6ZigZagConversion.java),
+[LC788. Rotated Digits](./src/main/java/LC788RotatedDigits.java)
+
