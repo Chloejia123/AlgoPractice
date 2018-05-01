@@ -32,3 +32,5 @@ Recording my daily algorithm practices
 [LC6. ZigZag Conversion](./src/main/java/LC6ZigZagConversion.java),
 [LC788. Rotated Digits](./src/main/java/LC788RotatedDigits.java)
 
+### 05/01
+[LC39. Combination Sum](./src/main/java/LC39CombinationSum.java),
