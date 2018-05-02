@@ -31,6 +31,8 @@ Recording my daily algorithm practices
 [LC3. Longest Substring Without Repeating Characters](./src/main/java/LC3LongestSubstringWithoutRepeatingCharacters.java),
 [LC6. ZigZag Conversion](./src/main/java/LC6ZigZagConversion.java),
 [LC788. Rotated Digits](./src/main/java/LC788RotatedDigits.java)
-
 ### 05/01
-[LC39. Combination Sum](./src/main/java/LC39CombinationSum.java),
+[LC39. Combination Sum](./src/main/java/LC39CombinationSum.java)
+### 05/02
+[LC40. Combination Sum II](./src/main/java/LC40CombinationSumII.java),
+[LC131. Palindrome Partitioning](./src/main/java/LC131PalindromePartitioning.java)
