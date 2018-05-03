@@ -36,3 +36,6 @@ Recording my daily algorithm practices
 ### 05/02
 [LC40. Combination Sum II](./src/main/java/LC40CombinationSumII.java),
 [LC131. Palindrome Partitioning](./src/main/java/LC131PalindromePartitioning.java)
+### 05/03
+[LC51. N-Queens](./src/main/java/LC51NQueens.java),
+[LC216. Combination Sum III](./src/main/java/LC216CombinationSumIII.java)
