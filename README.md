@@ -39,3 +39,6 @@ Recording my daily algorithm practices
 ### 05/03
 [LC51. N-Queens](./src/main/java/LC51NQueens.java),
 [LC216. Combination Sum III](./src/main/java/LC216CombinationSumIII.java)
+### 05/04
+[LC504. Base 7](./src/main/java/LC504Base7.java)
+[LC127. Word Ladder](./src/main/java/LC127WordLadder.java)
