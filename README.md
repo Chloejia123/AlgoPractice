@@ -1,4 +1,4 @@
-# AlgoPractice
+# Algorithm Practice
 Recording my daily algorithm practices 
 
 ### 04/17
@@ -45,3 +45,6 @@ Recording my daily algorithm practices
 ### 05/05
 [LC5. Longest Palindromic Substring](./src/main/java/LC5LongestPalindromicSubstring.java),
 [LC19. Remove Nth Node From End Of List](./src/main/java/LC19RemoveNthNodeFromEndOfList.java)
+### 05/06
+[LC690. Employee Importance](./src/main/java/LC690EmployeeImportance.java),
+[LC55. Jump Game](./src/main/java/LC55JumpGame.java)
