@@ -42,3 +42,6 @@ Recording my daily algorithm practices
 ### 05/04
 [LC504. Base 7](./src/main/java/LC504Base7.java)
 [LC127. Word Ladder](./src/main/java/LC127WordLadder.java)
+### 05/05
+[LC5. Longest Palindromic Substring](./src/main/java/LC5LongestPalindromicSubstring.java),
+[LC19. Remove Nth Node From End Of List](./src/main/java/LC19RemoveNthNodeFromEndOfList.java)
