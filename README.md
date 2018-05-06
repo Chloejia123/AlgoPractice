@@ -48,3 +48,7 @@ Recording my daily algorithm practices
 ### 05/06
 [LC690. Employee Importance](./src/main/java/LC690EmployeeImportance.java),
 [LC55. Jump Game](./src/main/java/LC55JumpGame.java)
+### 05/07
+[LC112. Path Sum](./src/main/java/LC112PathSum.java),
+[LC113. Path Sum II](./src/main/java/LC113PathSumII.java),
+[LC563. Binary Tree Tilt](./src/main/java/LC563BinaryTreeTilt.java)
