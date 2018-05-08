@@ -52,6 +52,6 @@ Recording my daily algorithm practices
 [LC112. Path Sum](./src/main/java/LC112PathSum.java),
 [LC113. Path Sum II](./src/main/java/LC113PathSumII.java),
 [LC563. Binary Tree Tilt](./src/main/java/LC563BinaryTreeTilt.java)
-### 05/07
+### 05/08
 [LC1. Two Sum](./src/main/java/LC1TwoSum.java),
 [LC36. Valid Sudoku](./src/main/java/LC36ValidSudoku.java)
