@@ -55,3 +55,6 @@ Recording my daily algorithm practices
 ### 05/08
 [LC1. Two Sum](./src/main/java/LC1TwoSum.java),
 [LC36. Valid Sudoku](./src/main/java/LC36ValidSudoku.java)
+### 05/09
+[LC344. Reverse String](./src/main/java/LC344ReverseString.java),
+[LC412. Fizz Buzz](./src/main/java/LC412FizzBuzz.java)
