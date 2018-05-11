@@ -58,3 +58,6 @@ Recording my daily algorithm practices
 ### 05/09
 [LC344. Reverse String](./src/main/java/LC344ReverseString.java),
 [LC412. Fizz Buzz](./src/main/java/LC412FizzBuzz.java)
+### 05/10
+[LC24. Search a 2D Matrix](./src/main/java/LC24SearchA2DMatrix.java),
+[LC153. Find Minimum in Rotated Sorted Array](./src/main/java/LC153FindMinimumInRotatedSortedArray.java)
