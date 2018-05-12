@@ -61,3 +61,9 @@ Recording my daily algorithm practices
 ### 05/10
 [LC24. Search a 2D Matrix](./src/main/java/LC24SearchA2DMatrix.java),
 [LC153. Find Minimum in Rotated Sorted Array](./src/main/java/LC153FindMinimumInRotatedSortedArray.java)
+### 05/11
+[LC81. Search in Rotated Sorted Array](./src/main/java/LC81SearchInRotatedSortedArray.java),
+[LC33. Search in Rotated Sorted Array II](./src/main/java/LC33SearchInRotatedSortedArray.java),
+### 05/12
+[LC561. Arrays Partition](./src/main/java/LC561ArraysPartition.java),
+[LC69. Sqrt(x)](./src/main/java/LC69SqrtX.java)
