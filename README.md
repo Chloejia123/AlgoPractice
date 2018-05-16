@@ -74,3 +74,6 @@ Recording my daily algorithm practices
 ### 05/15
 [LC806. NumberOfLinesToWriteString](./src/main/java/LC806NumberOfLinesToWriteString.java),
 [LC791CustomSortString](./src/main/java/LC791CustomSortString.java)
+### 05/16
+[LC507. Perfect Number](./src/main/java/LC507PerfectNumber.java),
+[LC728. Self Dividing Number](./src/main/java/LC728SelfDividingNumber.java)
