@@ -67,3 +67,10 @@ Recording my daily algorithm practices
 ### 05/12
 [LC561. Arrays Partition](./src/main/java/LC561ArraysPartition.java),
 [LC69. Sqrt(x)](./src/main/java/LC69SqrtX.java)
+### 05/13
+[LC832. Flipping an Image](./src/main/java/LC832FlippingAnImage.java),
+### 05/14
+[LC824. Goat Latin](./src/main/java/LC824GoatLatin.java)
+### 05/15
+[LC806. NumberOfLinesToWriteString](./src/main/java/LC806NumberOfLinesToWriteString.java),
+[LC791CustomSortString](./src/main/java/LC791CustomSortString.java)
