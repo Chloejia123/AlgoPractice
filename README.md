@@ -77,3 +77,9 @@ Recording my daily algorithm practices
 ### 05/16
 [LC507. Perfect Number](./src/main/java/LC507PerfectNumber.java),
 [LC728. Self Dividing Number](./src/main/java/LC728SelfDividingNumber.java)
+### 05/17
+[LC148. Sort List](./src/main/java/LC148SortList.java),
+[LC20. Valid Parentheses](./src/main/java/LC20ValidParentheses.java)
+### 05/18
+[LC49. Group Anagrams](./src/main/java/LC49GroupAnagrams.java),
+[LC28. Implement strStr](./src/main/java/LC28ImplementStrStr.java)
