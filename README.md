@@ -83,3 +83,7 @@ Recording my daily algorithm practices
 ### 05/18
 [LC49. Group Anagrams](./src/main/java/LC49GroupAnagrams.java),
 [LC28. Implement strStr](./src/main/java/LC28ImplementStrStr.java)
+### 05/19
+[LC21. Merge Two Sorted Lists](./src/main/java/LC21MergeTwoSortedList.java),
+[LC23. Merge K Sorted Lists](./src/main/java/LC23MergeKSortedLists.java),
+[LC169. Major Element](./src/main/java/LC169MajorElement.java)
