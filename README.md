@@ -87,3 +87,12 @@ Recording my daily algorithm practices
 [LC21. Merge Two Sorted Lists](./src/main/java/LC21MergeTwoSortedList.java),
 [LC23. Merge K Sorted Lists](./src/main/java/LC23MergeKSortedLists.java),
 [LC169. Major Element](./src/main/java/LC169MajorElement.java)
+### 05/20
+[LC199. Binary Tree Right Side View](./src/main/java/LC199BinaryTreeRightSideView.java),
+[LC252. Meeting Room](./src/main/java/LC252MeetingRoom.java),
+[LC151. Reverse Word In A String](./src/main/java/LC151ReverseWordInAString.java),
+[LC283. Move Zeroes](./src/main/java/LC283MoveZeroes.java),
+[LC461. Hamming Distance](./src/main/java/LC461HammingDistance.java),
+[LC206. Reverse Linked List](./src/main/java/LC206ReverseLinkedList.java),
+[LC15. 3Sum](./src/main/java/LC153Sum.java),
+[LC138. Copy List With Random Pointer](./src/main/java/LC138CopyListWithRandomPointer.java)
