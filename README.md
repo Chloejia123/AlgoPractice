@@ -108,4 +108,12 @@ Recording my daily algorithm practices
 [LC215. Kth Largest Element in an Array](./src/main/java/LC215KthLargestElementInAnArray.java),
 [LC253. Meeting Room II](./src/main/java/LC253MeetingRoomII.java),
 [LC80. Remove Duplicates from Sorted Array II](./src/main/java/LC806NumberOfLinesToWriteString.java)
-
+### 05/23
+[LC771. Jewels And Stones](./src/main/java/LC771JewelsAndStones.java),
+[LC657. Judge Route Circle](./src/main/java/LC657JudgeRouteCircle.java),
+[LC617. Merge Two Binary Trees](./src/main/java/LC617MergeTwoBinaryTrees.java)
+### 05/24
+[LC669.Trim a Binary Search Tree](./src/main/java/LC669TrimABinayTree.java),
+[LC575. Distribute Candies](./src/main/java/LC575DistributeCandies.java),
+[LC292. Nim Game](./src/main/java/LC292NimGame.java),
+[LC485. Max Consecutive Ones](./src/main/java/LC485MaxConsecutiveOnes.java)
