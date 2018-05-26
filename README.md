@@ -117,3 +117,9 @@ Recording my daily algorithm practices
 [LC575. Distribute Candies](./src/main/java/LC575DistributeCandies.java),
 [LC292. Nim Game](./src/main/java/LC292NimGame.java),
 [LC485. Max Consecutive Ones](./src/main/java/LC485MaxConsecutiveOnes.java)
+### 05/25
+[LC746. Min Cost Climbing Stairs](./src/main/java/LC746MinCostClimbingStairs.java),
+[LC242. Valid Anagram](./src/main/java/LC24SearchA2DMatrix.java),
+[LC682. Baseball Game](./src/main/java/LC682BaseballGame.java),
+[LC89. Gray Code](./src/main/java/LC89GrayCode.java),
+[LC98. Validate Binary Tree](./src/main/java/LC98ValidateBinaryTree.java)
