@@ -123,3 +123,10 @@ Recording my daily algorithm practices
 [LC682. Baseball Game](./src/main/java/LC682BaseballGame.java),
 [LC89. Gray Code](./src/main/java/LC89GrayCode.java),
 [LC98. Validate Binary Tree](./src/main/java/LC98ValidateBinaryTree.java)
+### 05/26
+[LC388. Longest Absolute File Path](./src/main/java/LC388LongestAbsoluteFilePath.java),
+[LC26. Remove Duplicates from Sorted Array](./src/main/java/LC26RemoveDuplicatesFromSortedArray.java),
+### 05/27
+[LC202. Happy Number](./src/main/java/LC202HappyNumber.java),
+[LC27. Remove Element](./src/main/java/LC27RemoveElement.java),
+[LC230. Kth Smallest Element in a BST](./src/main/java/LC230KthSmallestElementInABST.java),
