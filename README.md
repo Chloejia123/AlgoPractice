@@ -130,3 +130,7 @@ Recording my daily algorithm practices
 [LC202. Happy Number](./src/main/java/LC202HappyNumber.java),
 [LC27. Remove Element](./src/main/java/LC27RemoveElement.java),
 [LC230. Kth Smallest Element in a BST](./src/main/java/LC230KthSmallestElementInABST.java),
+### 05/28
+[LC530. Minimum Absolute Difference in BST](./src/main/java/LC530MinimumAbsoluteDifferenceInBST.java),
+[LC532. K-diff Pairs in an Array](./src/main/java/LC530MinimumAbsoluteDifferenceInBST.java),
+[LC654. Set Mismatch](./src/main/java/LC657JudgeRouteCircle.java)
