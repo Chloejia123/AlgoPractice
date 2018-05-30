@@ -134,3 +134,6 @@ Recording my daily algorithm practices
 [LC530. Minimum Absolute Difference in BST](./src/main/java/LC530MinimumAbsoluteDifferenceInBST.java),
 [LC532. K-diff Pairs in an Array](./src/main/java/LC530MinimumAbsoluteDifferenceInBST.java),
 [LC654. Set Mismatch](./src/main/java/LC657JudgeRouteCircle.java)
+### 05/29
+[LC43. Multiply String](./src/main/java/LC43MultiplyString.java),
+[LC673. Number of Longest Increasing Subsequence](./src/main/java/LC673NumberOfLongestIncreasingSubsequence.java)
