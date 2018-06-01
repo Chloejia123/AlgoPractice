@@ -137,3 +137,11 @@ Recording my daily algorithm practices
 ### 05/29
 [LC43. Multiply String](./src/main/java/LC43MultiplyString.java),
 [LC673. Number of Longest Increasing Subsequence](./src/main/java/LC673NumberOfLongestIncreasingSubsequence.java)
+### 05/30
+[LC74. Search a 2D matrix](./src/main/java/LC746MinCostClimbingStairs.java),
+[LC240. Search a 2D Matrix II](./src/main/java/LC24SearchA2DMatrix.java)
+### 05/31
+[LC287. Find the Duplicate Number](./src/main/java/LC287FindTheDuplicateNumber.java),
+[LC760. Find Anagram Mappings](./src/main/java/LC760FindAnagramMappings.java),
+[LC811. Subdomain visit count](./src/main/java/LC811SubdomainVisitCount.java),
+[LC821. Shortest Distance to a Character](./src/main/java/LC821ShortestDistanceToACharacter.java)
