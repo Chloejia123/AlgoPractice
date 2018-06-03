@@ -145,3 +145,9 @@ Recording my daily algorithm practices
 [LC760. Find Anagram Mappings](./src/main/java/LC760FindAnagramMappings.java),
 [LC811. Subdomain visit count](./src/main/java/LC811SubdomainVisitCount.java),
 [LC821. Shortest Distance to a Character](./src/main/java/LC821ShortestDistanceToACharacter.java)
+### 06/01
+[LC257. Binary Tree Paths](./src/main/java/LC257BinaryTreePaths.java),
+[LC258. Add Digits](./src/main/java/LC258AddDigits.java)
+### 06/02
+[LC50. Pow(x,n)](./src/main/java/LC507PerfectNumber.java),
+[LC2. Add Two Numbers](./src/main/java/LC2AddTwoNumbers.java)
