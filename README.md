@@ -151,3 +151,7 @@ Recording my daily algorithm practices
 ### 06/02
 [LC50. Pow(x,n)](./src/main/java/LC507PerfectNumber.java),
 [LC2. Add Two Numbers](./src/main/java/LC2AddTwoNumbers.java)
+### 06/04
+[LC129. Sum Root to Leaf Number](./src/main/java/LC129SumRootToLeafNumber.java),
+[LC237. Delete A Node In a LinkedList](./src/main/java/LC237DeleteANodeInALinkedList.java),
+[LC776. Split BST](./src/main/java/LC776SplitBST.java)
