@@ -155,3 +155,6 @@ Recording my daily algorithm practices
 [LC129. Sum Root to Leaf Number](./src/main/java/LC129SumRootToLeafNumber.java),
 [LC237. Delete A Node In a LinkedList](./src/main/java/LC237DeleteANodeInALinkedList.java),
 [LC776. Split BST](./src/main/java/LC776SplitBST.java)
+### 06/05
+[LC66. Plus One](./src/main/java/LC66PlusOne.java),
+[LC53. Maximum Subarray](./src/main/java/LC530MinimumAbsoluteDifferenceInBST.java)
