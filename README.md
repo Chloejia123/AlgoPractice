@@ -158,3 +158,7 @@ Recording my daily algorithm practices
 ### 06/05
 [LC66. Plus One](./src/main/java/LC66PlusOne.java),
 [LC53. Maximum Subarray](./src/main/java/LC530MinimumAbsoluteDifferenceInBST.java)
+### 06/06
+[LC14. Longest Common Prefix](./src/main/java/LC148SortList.java),
+[LC11. Container With Most Water](./src/main/java/LC112PathSum.java),
+[LC42. Trapping Rain Water](./src/main/java/LC42TrappingRainWater.java)
