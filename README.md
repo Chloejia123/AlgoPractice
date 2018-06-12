@@ -162,3 +162,11 @@ Recording my daily algorithm practices
 [LC14. Longest Common Prefix](./src/main/java/LC148SortList.java),
 [LC11. Container With Most Water](./src/main/java/LC112PathSum.java),
 [LC42. Trapping Rain Water](./src/main/java/LC42TrappingRainWater.java)
+### 06/07
+[LC141. Linkedlist Cycle](./src/main/java/LC141LinkedlistCycle.java),
+### 06/10
+[LC94. Binary Tree Inorder Traversal](./src/main/java/LC94BinaryTreeInorderTraversal.java);
+[LC145. Binary Tree Postorder Traversal](./src/main/java/LC145BinaryTreePostorderTraversal.java),
+### 06/11
+[LC144. Binary Tree Preorder Traversal](./src/main/java/LC144BinaryTreePreorderTraversal.java),
+[LC255. Verify Preorder Sequence in Binary Search Tree](./src/main/java/LC255VerifyPreorderSequenceInBinarySearchTree.java)
