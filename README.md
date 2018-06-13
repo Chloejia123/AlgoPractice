@@ -170,3 +170,8 @@ Recording my daily algorithm practices
 ### 06/11
 [LC144. Binary Tree Preorder Traversal](./src/main/java/LC144BinaryTreePreorderTraversal.java),
 [LC255. Verify Preorder Sequence in Binary Search Tree](./src/main/java/LC255VerifyPreorderSequenceInBinarySearchTree.java)
+### 06/12
+[LC104. Maximum Depth of Binary Tree](./src/main/java/LC104MaximumDepthOfBinaryTree.java),
+[LC226. Invert Binary Tree](./src/main/java/LC226InvertBinaryTree.java),
+[LC100. Same Tree](./src/main/java/LC100SameTree.java),
+
