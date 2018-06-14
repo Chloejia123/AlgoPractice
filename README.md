@@ -173,5 +173,9 @@ Recording my daily algorithm practices
 ### 06/12
 [LC104. Maximum Depth of Binary Tree](./src/main/java/LC104MaximumDepthOfBinaryTree.java),
 [LC226. Invert Binary Tree](./src/main/java/LC226InvertBinaryTree.java),
-[LC100. Same Tree](./src/main/java/LC100SameTree.java),
+[LC100. Same Tree](./src/main/java/LC100SameTree.java)
+### 06/13
+[LC235. Lowest Common Ancestor of a Binary Search Tree](./src/main/java/LC235LowestCommonAncestor.java),
+[LC236. Lowest Common Ancestor a Binary Tree](./src/main/java/LC236LowestCommonAncestorOfABinaryTree.java),
+
 
