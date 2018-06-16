@@ -1,4 +1,4 @@
-public class LC654SetMismatch {
+public class LC645SetMismatch {
   class Solution {
     public int[] findErrorNums(int[] nums) {
       int[] res = new int[2];

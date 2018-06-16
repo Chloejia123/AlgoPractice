@@ -133,7 +133,7 @@ Recording my daily algorithm practices
 ### 05/28
 [LC530. Minimum Absolute Difference in BST](./src/main/java/LC530MinimumAbsoluteDifferenceInBST.java),
 [LC532. K-diff Pairs in an Array](./src/main/java/LC530MinimumAbsoluteDifferenceInBST.java),
-[LC654. Set Mismatch](./src/main/java/LC657JudgeRouteCircle.java)
+[LC654. Set Mismatch](./src/main/java/LC645SetMismatch.java)
 ### 05/29
 [LC43. Multiply String](./src/main/java/LC43MultiplyString.java),
 [LC673. Number of Longest Increasing Subsequence](./src/main/java/LC673NumberOfLongestIncreasingSubsequence.java)
@@ -178,4 +178,8 @@ Recording my daily algorithm practices
 [LC235. Lowest Common Ancestor of a Binary Search Tree](./src/main/java/LC235LowestCommonAncestor.java),
 [LC236. Lowest Common Ancestor a Binary Tree](./src/main/java/LC236LowestCommonAncestorOfABinaryTree.java),
 
+### 06/15
+[LC101. Symmetric Tree](./src/main/java/LC101SymmetricTree.java),
+[LC124. Binary Tree Maximum Path Sum](./src/main/java/LC124BinaryTreeMaximumPathSum.java),
+[LC79. Word Search](./src/main/java/LC791CustomSortString.java)
 
