@@ -183,3 +183,6 @@ Recording my daily algorithm practices
 [LC124. Binary Tree Maximum Path Sum](./src/main/java/LC124BinaryTreeMaximumPathSum.java),
 [LC79. Word Search](./src/main/java/LC791CustomSortString.java)
 
+### 06/16
+[LC322. Coin Change](./src/main/java/LC322CoinChange.java),
+[LC62. Unique Path](./src/main/java/LC62UniquePath.java)
