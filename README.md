@@ -185,4 +185,8 @@ Recording my daily algorithm practices
 
 ### 06/16
 [LC322. Coin Change](./src/main/java/LC322CoinChange.java),
-[LC62. Unique Path](./src/main/java/LC62UniquePath.java)
+[LC62. Unique Path](./src/main/java/LC62UniquePaths.java)
+
+### 06/17   
+[LC852. Peak Index in a Mountain Array](./src/main/java/LC852PeakIndexInAMountainArray.java),
+[LC371. Sum of Two Integers](./src/main/java/LC371SumOfTwoIntegers.java)
