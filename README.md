@@ -190,3 +190,6 @@ Recording my daily algorithm practices
 ### 06/17   
 [LC852. Peak Index in a Mountain Array](./src/main/java/LC852PeakIndexInAMountainArray.java),
 [LC371. Sum of Two Integers](./src/main/java/LC371SumOfTwoIntegers.java)
+### 06/18
+[LC300. Longest Increasing Subsequence](./src/main/java/LC300LongestIncreasingSubsequence.java),
+[LC9. Palindrome Number](./src/main/java/LC94BinaryTreeInorderTraversal.java)
