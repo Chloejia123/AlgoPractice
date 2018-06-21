@@ -193,3 +193,7 @@ Recording my daily algorithm practices
 ### 06/18
 [LC300. Longest Increasing Subsequence](./src/main/java/LC300LongestIncreasingSubsequence.java),
 [LC9. Palindrome Number](./src/main/java/LC94BinaryTreeInorderTraversal.java)
+### 06/20
+[LC387. First Unique Character in a String](./src/main/java/LC387FirstUniqueCharacterInAString.java),
+[LC186. Reverse Words in a String II](./src/main/java/LC186ReverseWordInAStringII.java),
+
