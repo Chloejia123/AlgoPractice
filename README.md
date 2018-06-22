@@ -195,5 +195,9 @@ Recording my daily algorithm practices
 [LC9. Palindrome Number](./src/main/java/LC94BinaryTreeInorderTraversal.java)
 ### 06/20
 [LC387. First Unique Character in a String](./src/main/java/LC387FirstUniqueCharacterInAString.java),
-[LC186. Reverse Words in a String II](./src/main/java/LC186ReverseWordInAStringII.java),
+[LC186. Reverse Words in a String II](./src/main/java/LC186ReverseWordInAStringII.java)
+### 06/21
+[LC490. The Maze](./src/main/java/LC490TheMaze.java),
+[LC8StringToInteger](./src/main/java/LC8StringToInteger.java)
+
 
