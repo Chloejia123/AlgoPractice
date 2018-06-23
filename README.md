@@ -199,5 +199,9 @@ Recording my daily algorithm practices
 ### 06/21
 [LC490. The Maze](./src/main/java/LC490TheMaze.java),
 [LC8StringToInteger](./src/main/java/LC8StringToInteger.java)
+### 06/22
+[LC63. Unique Paths II](./src/main/java/LC63UniquePathsII.java),
+[LC256. Paint House](./src/main/java/LC256PaintHouse.java),
+[LC91. Decode Ways](./src/main/java/LC91DecodeWays.java)
 
 
