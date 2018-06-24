@@ -203,5 +203,8 @@ Recording my daily algorithm practices
 [LC63. Unique Paths II](./src/main/java/LC63UniquePathsII.java),
 [LC256. Paint House](./src/main/java/LC256PaintHouse.java),
 [LC91. Decode Ways](./src/main/java/LC91DecodeWays.java)
+### 06/23
+[LC516. Longest Palindromic Subsequence](./src/main/java/LC516LongestPalindromicSubsequence.java),
+[LC17. Letter Combinations of a Phone Number](./src/main/java/LC17LetterCombinationsOfAPhoneNumber.java)
 
 
