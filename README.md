@@ -206,5 +206,11 @@ Recording my daily algorithm practices
 ### 06/23
 [LC516. Longest Palindromic Subsequence](./src/main/java/LC516LongestPalindromicSubsequence.java),
 [LC17. Letter Combinations of a Phone Number](./src/main/java/LC17LetterCombinationsOfAPhoneNumber.java)
+### 06/27
+[LC763. Partition Labels](./src/main/java/LC763PartitionLabels.java),
+[LC200. Number of Islands](./src/main/java/LC200NumberOfIslands.java),
+[LC48. Rotate Image](./src/main/java/LC48RotateImage.java),
+
+
 
 
