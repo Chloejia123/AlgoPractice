@@ -38,4 +38,31 @@ public class LC234PalindromeLinkedList {
       return true;
     }
   }
+
+  class Solution2 {
+    public boolean isPalindrome(ListNode head) {
+      if (head == null) return true;
+      // detect the length
+      int len = 0;
+      for (ListNode p = head; p != null; p = p.next) len++;
+      // reverse the first half list
+      ListNode p = head, q = null, r = p.next;
+      for (int i = 0; i < len / 2; i++) {
+        p.next = q;
+        q = p;
+        p = r;
+        r = r.next;
+      }
+      // detect the palindrome from the mid
+      r = len % 2 == 0 ? p : r;
+      while (r != null && q != null) {
+        if (r.val != q.val) return false;
+        r = r.next;
+        q = q.next;
+      }
+      return r == null && q == null;
+    }
+  }
 }
+
+

@@ -224,6 +224,11 @@ Recording my daily algorithm practices
 [LC458. Poor Pigs](./src/main/java/LC458PoorPigs.java),
 [LC152. Maximum Product Subarray](./src/main/java/LC152MaximumProductSubarray.java),
 [LC234. Palindrome Linked List](./src/main/java/LC234PalindromeLinkedList.java)
+### 07/01
+[LC338. Counting bits](./src/main/java/LC338CountingBits.java),
+[LC159. Longest Substring with At Most Two Distinct Characters](./src/main/java/LC159LongestSubstringwithAtMostTwoDistinctCharacters.java),
+[LC340. Longest Substring with At Most K Distinct Characters](./src/main/java/LC340LongestSubstringwithAtMostKDistinctCharacters.java),
+[LC438. Find All Anagram in a String](./src/main/java/LC438FindAllAnagramInAString.java)
 
 
 
