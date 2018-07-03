@@ -230,6 +230,11 @@ Recording my daily algorithm practices
 [LC340. Longest Substring with At Most K Distinct Characters](./src/main/java/LC340LongestSubstringwithAtMostKDistinctCharacters.java),
 [LC438. Find All Anagram in a String](./src/main/java/LC438FindAllAnagramInAString.java)
 
+### 07/02
+[LC365. Water and Jug Problem](./src/main/java/LC365WaterAndJugProblem.java),
+[LC545. Boundary of Binary Tree](./src/main/java/LC545BoundaryOfBinaryTree.java),
+[LC380. Insert Delete GetRandom O(1)](./src/main/java/LC387FirstUniqueCharacterInAString.java),
+[LC725. Split Linked List in Parts](./src/main/java/LC728SelfDividingNumber.java),
 
 
 
