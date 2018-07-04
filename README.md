@@ -236,5 +236,10 @@ Recording my daily algorithm practices
 [LC380. Insert Delete GetRandom O(1)](./src/main/java/LC387FirstUniqueCharacterInAString.java),
 [LC725. Split Linked List in Parts](./src/main/java/LC728SelfDividingNumber.java),
 
+### 07/03
+[LC146. LRU Cache](./src/main/java/LC146LRUCache.java),
+[LC661. Image Smoother](./src/main/java/LC661ImageSmoother.java),
+[LC396. Rotate Function](./src/main/java/LC396RotateFunction.java),
+[LC147. Insertion Sort List](./src/main/java/LC147InsertionSortList.java)
 
 
