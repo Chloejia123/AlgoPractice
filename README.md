@@ -241,5 +241,15 @@ Recording my daily algorithm practices
 [LC661. Image Smoother](./src/main/java/LC661ImageSmoother.java),
 [LC396. Rotate Function](./src/main/java/LC396RotateFunction.java),
 [LC147. Insertion Sort List](./src/main/java/LC147InsertionSortList.java)
+### 07/04
+[LC553. Optimal Division](./src/main/java/LC553OptimalDivision.java),
+[LC325. Maximum Size Subarray Sum Equals k](./src/main/java/LC325MaximumSizeSubarraySumEqualsK.java),
+[LC165. Compare Version](./src/main/java/LC165CompareVersion.java),
+### 07/05
+[LC285. Inorder Successor in BST](./src/main/java/LC285InorderSuccessorinBST.java),
+[LC270. Closest Binary Search Tree value](./src/main/java/LC270ClosestBinarySearchTreeValue.java),
+[LC572. Subtree of Another Tree](./src/main/java/LC572SubtreeOfAnotherTree.java),
+[LC279. Perfect Squares](./src/main/java/LC279PerfectSquares.java)
+
 
 
