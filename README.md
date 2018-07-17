@@ -254,7 +254,7 @@ Recording my daily algorithm practices
 ### 07/06
 [LC92. Reverse Linked List II](./src/main/java/LC692TopKFrequentWords.java),
 
-### 07/17
+### 07/16
 [LC312. Burst Balloons](./src/main/java/LC312BurstBalloons.java),
 [LC712. Minimum ASCII Delete Sum for Two Strings](./src/main/java/LC712MinimumASCIIDeleteSumforTwoStrings.java),
 [LC221. Maximal Square](./src/main/java/LC221MaximalSquare.java),
