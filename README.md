@@ -11,7 +11,8 @@ Recording my daily algorithm practices
 ### 04/22
 [LC496. Next Greater Element I](https://github.com/Chloejia123/AlgoPractice/blob/master/src/main/java/LC496NextGreaterElementI.java), [LC506. Relative Ranks](https://github.com/Chloejia123/AlgoPractice/blob/master/src/main/java/LC506RelativeRanks.java), [LC540. Single Element In A Sorted Array](https://github.com/Chloejia123/AlgoPractice/blob/master/src/main/java/LC506RelativeRanks.java)
 ### 04/23
-[LC46. Permutation](https://github.com/Chloejia123/AlgoPractice/blob/master/src/main/java/LC46Permutation.java), [LC47. Permutation II](https://github.com/Chloejia123/AlgoPractice/blob/master/src/main/java/LC47PermutationII.java), [LC78. Subset](https://github.com/Chloejia123/AlgoPractice/blob/master/src/main/java/LC78Subsets.java), [LC90. Subset II](https://github.com/Chloejia123/AlgoPractice/blob/master/src/main/java/LC90SubsetsII.java)
+[LC46. Permutation](https://github.com/Chloejia123/AlgoPractice/blob/master/src/main/java/LC46Permutation.java), 
+[LC47. Permutation II](https://github.com/Chloejia123/AlgoPractice/blob/master/src/main/java/LC47PermutationII.java), [LC78. Subset](https://github.com/Chloejia123/AlgoPractice/blob/master/src/main/java/LC78Subsets.java), [LC90. Subset II](https://github.com/Chloejia123/AlgoPractice/blob/master/src/main/java/LC90SubsetsII.java)
 ### 04/24
 [LC647. Palindromic Substring](./src/main/java/LC647PalindromicSubstring.java), 
 [LC796. Rotate String](./src/main/java/LC796RotateString.java), 
@@ -259,4 +260,14 @@ Recording my daily algorithm practices
 [LC712. Minimum ASCII Delete Sum for Two Strings](./src/main/java/LC712MinimumASCIIDeleteSumforTwoStrings.java),
 [LC221. Maximal Square](./src/main/java/LC221MaximalSquare.java),
 [LC198. House Robber](./src/main/java/LC198HouseRobber.java),
-[LC115. Distinct Subsequence](./src/main/java/LC115DistinctSubsequences.java)
+[LC115. Distinct Subsequences](./src/main/java/LC115DistinctSubsequences.java)
+
+
+### 08/23
+[LC301. Remove Invalid Parentheses](./src/main/java/LC301RemoveInvalidParentheses.java),
+[LC31. Next Permutation](./src/main/java/LC31NextPermutation.java),
+[LC29. Divide Two Integers](./src/main/java/LC29DivideTwoIntegers.java)
+[LC65. Valid Number](./src/main/java/LC65ValidNumber.java),
+[LC621. Task Scheduler](./src/main/java/LC621TaskScheduler.java),
+[LC25. Reverse Nodes In KGroup](./src/main/java/LC25ReverseNodesInKGroup.java),
+[LC218. The Skyline Problem](./src/main/java/LC218TheSkylineProblem.java),
